@@ -43,7 +43,18 @@ Agosto de 2026 – junho de 2028 (em andamento)
 - 🎮 Desenvolvimento de jogos eletrônicos
 - 🤖 Robótica
 
-<!-- Projetos: incluir aqui uma seção "Projetos" quando os repositórios estiverem publicados. -->
+## 🚀 Projetos
+
+### [Controle de Chamados](https://github.com/g-alencar06/controle-de-chamados-full)
+
+Sistema para registrar e acompanhar pedidos de suporte: cadastro de chamados com status e prioridade, filtros, reabertura e exclusão. Inclui API REST, banco de dados e interface web, com testes automatizados.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML, CSS e JavaScript" />
+
+[Ver o projeto →](https://github.com/g-alencar06/controle-de-chamados-full)
 
 ## 📫 Contato
 
